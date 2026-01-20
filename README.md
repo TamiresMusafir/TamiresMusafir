@@ -11,14 +11,13 @@
 💼 **About Me / Sobre mim**
 ##
 
-🇧🇷 **Português:**  
-🎓 Estudante de Ciência da Computação.  
-💻 Interessada em programação, sistemas e tecnologia em geral.  
-
 🇺🇸 **English:**  
 🎓 Computer Science Student.  
 💻 Interested in programming, systems, and technology in general.
 
+🇧🇷 **Português:**  
+🎓 Estudante de Ciência da Computação.  
+💻 Interessada em programação, sistemas e tecnologia em geral.  
 ---
 
 <p align="center"> 
