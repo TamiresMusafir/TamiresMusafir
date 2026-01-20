@@ -18,6 +18,7 @@
 🇧🇷 **Português:**  
 🎓 Estudante de Ciência da Computação.  
 💻 Interessada em programação, sistemas e tecnologia em geral.  
+
 ---
 
 <p align="center"> 
