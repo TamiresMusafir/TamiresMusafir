@@ -28,8 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TamiresMusafir&theme=radical&show_icons=true&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamiresMusafir&theme=radical&layout=compact&hide_border=true" width="43%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TamiresMusafir&theme=dark" alt="Tamires's streak">
 </p>
 
 <picture>
