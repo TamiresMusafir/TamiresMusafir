@@ -18,6 +18,27 @@
   </a>
 </p>
 
+## About Me
+
+<p align="justify">
+  Hi! I'm Tamires, a Computer Science student from Brazil with a passion for web development.  
+  I have experience building full-stack projects using HTML, CSS, JavaScript, Bootstrap, and Ruby on Rails.  
+</p>
+<p align="justify">
+  I enjoy learning new technologies, creating clean and responsive websites, and sharing knowledge with the community.  
+  My goal is to grow as a developer, improve my skills, and contribute to meaningful projects.
+</p>
+  
+## Some of My Projects
+
+- **[Anuvia Rails Project](https://github.com/TamiresMusafir/anuvia-rails-project)**  
+  A **dynamic full-stack web application** built with **Ruby on Rails, PostgreSQL, HTML, CSS, JavaScript, and Bootstrap**.  
+  Features include a **CRUD system, user authentication, dashboards, and responsive design**. Ideal for **portfolio and back-end skill demonstration**.
+
+- **[Anuvia Website Template](https://github.com/TamiresMusafir/anuvia-website-template)**  
+  A **static front-end project** built with **HTML, CSS, JavaScript, and Bootstrap**.  
+  Focused on **responsive design, carousel features, and clean UI layout**. Perfect for **showcasing front-end development skills**.
+
 
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TamiresMusafir&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TamiresMusafir&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TamiresMusafir&theme=jolly&utcOffset=8) |
 | :-: | :-: | :-: |
