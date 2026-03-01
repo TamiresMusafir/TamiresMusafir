@@ -30,8 +30,8 @@
 </p>
 
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TamiresMusafir&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TamiresMusafir&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
-| :-: | :-: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TamiresMusafir&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TamiresMusafir&theme=jolly&hide_border=true)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TamiresMusafir&theme=jolly&utcOffset=8) |
+| :-: | :-: | :-: |
 
 ## Some of My Projects
 
@@ -43,13 +43,15 @@
   A static front-end project built with HTML, CSS, JavaScript, and Bootstrap.  
   Focused on responsive design, carousel features, and clean UI layout. Perfect for showcasing front-end development skills.
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TamiresMusafir&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TamiresMusafir&theme=jolly&utcOffset=8)  |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TamiresMusafir&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tamiresmusafir&theme=jolly) |
 | :-: | :-: |
+
+## My SKills
 
 <p align="center"> 
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=c,cpp,ruby,arduino,flutter,html,css,js,mysql,sqlite,rails" height="40px" /> 
-    <img src="https://skillicons.dev/icons?i=bootstrap,git,docker,bash,debian,linux,kali,vscode,sublime,ps" height="40px" /> 
+    <img src="https://skillicons.dev/icons?i=c,cpp,ruby,arduino,flutter,html,css,js,mysql,sqlite,rails&theme=dark" height="40px" /> 
+    <img src="https://skillicons.dev/icons?i=bootstrap,git,docker,bash,debian,linux,kali,vscode,sublime,ps&theme=dark" height="40px" /> 
   </a> 
 </p>
 
