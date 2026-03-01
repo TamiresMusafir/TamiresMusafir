@@ -40,11 +40,11 @@
   Focused on **responsive design, carousel features, and clean UI layout**. Perfect for **showcasing front-end development skills**.
 
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TamiresMusafir&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TamiresMusafir&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TamiresMusafir&theme=jolly&utcOffset=8) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TamiresMusafir&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TamiresMusafir&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TamiresMusafir&theme=jolly&utcOffset=8) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TamiresMusafir&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TamiresMusafir&theme=jolly&hide_border=true)](https://git.io/streak-stats) | 
-| :-: | :-: |
+| &nbsp; | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TamiresMusafir&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TamiresMusafir&theme=jolly&hide_border=true)](https://git.io/streak-stats) | &nbsp; |
+| :-: | :-: | :-: | :-: |
 
 <p align="center"> 
   <a href="https://skillicons.dev"> 
