@@ -63,13 +63,10 @@
     <img src="https://img.shields.io/badge/Arduino-291B3E?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Flutter-291B3E?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  </a>
-  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-291B3E?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-291B3E?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/CSS3-291B3E?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-291B3E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
