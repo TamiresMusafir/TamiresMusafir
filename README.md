@@ -60,6 +60,9 @@
     <img src="https://img.shields.io/badge/Ruby-291B3E?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
   </a>
   <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Java-291B3E?style=for-the-badge&logo=java&logoColor=white" alt="Ruby">
+  </a>
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Arduino-291B3E?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
   </a>
   <a href="#" target="_blank">
