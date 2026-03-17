@@ -56,10 +56,16 @@
       <img src="https://img.shields.io/badge/C++-291B3E?style=for-the-badge&logo=c%2B%2B&logoColor=white">
       <img src="https://img.shields.io/badge/Java-291B3E?style=for-the-badge&logo=openjdk&logoColor=white">
       <img src="https://img.shields.io/badge/Ruby-291B3E?style=for-the-badge&logo=ruby&logoColor=white">
-      <img src="https://img.shields.io/badge/Arduino-291B3E?style=for-the-badge&logo=arduino&logoColor=white">
     </td>
   </tr>
 
+  <td><b>Embedded</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Arduino-291B3E?style=for-the-badge&logo=arduino&logoColor=white">
+      <img src="https://img.shields.io/badge/ESP32-291B3E?style=for-the-badge&logo=espressif&logoColor=white">
+    </td>
+  </td>
+  
   <tr>
     <td><b>Web</b></td>
     <td>
@@ -68,6 +74,8 @@
       <img src="https://img.shields.io/badge/JavaScript-291B3E?style=for-the-badge&logo=javascript&logoColor=white">
       <img src="https://img.shields.io/badge/Bootstrap-291B3E?style=for-the-badge&logo=bootstrap&logoColor=white">
       <img src="https://img.shields.io/badge/Ruby on Rails-291B3E?style=for-the-badge&logo=rubyonrails&logoColor=white">
+      <img src="https://img.shields.io/badge/React-291B3E?style=for-the-badge&logo=react&logoColor=white">
+      <img src="https://img.shields.io/badge/Tailwind-291B3E?style=for-the-badge&logo=tailwindcss&logoColor=white">
     </td>
   </tr>
 
