@@ -54,7 +54,7 @@
     <td>
       <img src="https://img.shields.io/badge/C-291B3E?style=for-the-badge&logo=c&logoColor=white">
       <img src="https://img.shields.io/badge/C++-291B3E?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-      <img src="https://img.shields.io/badge/Java-291B3E?style=for-the-badge&logo=java&logoColor=white">
+      <img src="https://img.shields.io/badge/Java-291B3E?style=for-the-badge&logo=openjdk&logoColor=white">
       <img src="https://img.shields.io/badge/Ruby-291B3E?style=for-the-badge&logo=ruby&logoColor=white">
       <img src="https://img.shields.io/badge/Arduino-291B3E?style=for-the-badge&logo=arduino&logoColor=white">
     </td>
@@ -76,6 +76,7 @@
     <td>
       <img src="https://img.shields.io/badge/MySQL-291B3E?style=for-the-badge&logo=mysql&logoColor=white">
       <img src="https://img.shields.io/badge/SQLite-291B3E?style=for-the-badge&logo=sqlite&logoColor=white">
+      <img src="https://img.shields.io/badge/PostgreSQL-291B3E?style=for-the-badge&logo=postgresql&logoColor=white">
     </td>
   </tr>
 
@@ -87,7 +88,7 @@
       <img src="https://img.shields.io/badge/Bash-291B3E?style=for-the-badge&logo=gnu-bash&logoColor=white">
       <img src="https://img.shields.io/badge/Linux-291B3E?style=for-the-badge&logo=linux&logoColor=white">
       <img src="https://img.shields.io/badge/Kali-291B3E?style=for-the-badge&logo=kali-linux&logoColor=white">
-      <img src="https://img.shields.io/badge/VSCode-291B3E?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+      <img src="https://img.shields.io/badge/VSCode-291B3E?style=for-the-badge&logo=visualstudiocode&logoColor=white">
       <img src="https://img.shields.io/badge/Sublime Text-291B3E?style=for-the-badge&logo=sublimetext&logoColor=white">
     </td>
   </tr>
