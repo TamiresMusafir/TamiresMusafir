@@ -48,73 +48,47 @@
 
 ## My SKills
 
-<p align="center">
-  <!-- Programming Languages -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/C-291B3E?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/C++-291B3E?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Ruby-291B3E?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Java-291B3E?style=for-the-badge&logo=java&logoColor=white" alt="Ruby">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Arduino-291B3E?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-291B3E?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-291B3E?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-291B3E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-291B3E?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/SQLite-291B3E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Ruby on Rails-291B3E?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Rails">
-  </a>
+<table align="center">
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-291B3E?style=for-the-badge&logo=c&logoColor=white">
+      <img src="https://img.shields.io/badge/C++-291B3E?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+      <img src="https://img.shields.io/badge/Java-291B3E?style=for-the-badge&logo=java&logoColor=white">
+      <img src="https://img.shields.io/badge/Ruby-291B3E?style=for-the-badge&logo=ruby&logoColor=white">
+      <img src="https://img.shields.io/badge/Arduino-291B3E?style=for-the-badge&logo=arduino&logoColor=white">
+    </td>
+  </tr>
 
-  <!-- Tools & Others -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Bootstrap-291B3E?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Git-291B3E?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-291B3E?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Bash-291B3E?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-291B3E?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Kali-291B3E?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/VSCode-291B3E?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Sublime Text-291B3E?style=for-the-badge&logo=sublimetext&logoColor=white" alt="Sublime">
-  </a>
-</p>
+  <tr>
+    <td><b>Web</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-291B3E?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-291B3E?style=for-the-badge&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-291B3E?style=for-the-badge&logo=javascript&logoColor=white">
+      <img src="https://img.shields.io/badge/Bootstrap-291B3E?style=for-the-badge&logo=bootstrap&logoColor=white">
+      <img src="https://img.shields.io/badge/Ruby on Rails-291B3E?style=for-the-badge&logo=rubyonrails&logoColor=white">
+    </td>
+  </tr>
 
-<p align="center"> 
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
-   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
- </picture>
-</p>
+  <tr>
+    <td><b>Database</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-291B3E?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/SQLite-291B3E?style=for-the-badge&logo=sqlite&logoColor=white">
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-291B3E?style=for-the-badge&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/Docker-291B3E?style=for-the-badge&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/Bash-291B3E?style=for-the-badge&logo=gnu-bash&logoColor=white">
+      <img src="https://img.shields.io/badge/Linux-291B3E?style=for-the-badge&logo=linux&logoColor=white">
+      <img src="https://img.shields.io/badge/Kali-291B3E?style=for-the-badge&logo=kali-linux&logoColor=white">
+      <img src="https://img.shields.io/badge/VSCode-291B3E?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+      <img src="https://img.shields.io/badge/Sublime Text-291B3E?style=for-the-badge&logo=sublimetext&logoColor=white">
+    </td>
+  </tr>
+</table>
