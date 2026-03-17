@@ -49,22 +49,14 @@
 ## My SKills
 
 <table align="center">
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/C-291B3E?style=for-the-badge&logo=c&logoColor=white">
-      <img src="https://img.shields.io/badge/C++-291B3E?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-      <img src="https://img.shields.io/badge/Java-291B3E?style=for-the-badge&logo=openjdk&logoColor=white">
-      <img src="https://img.shields.io/badge/Ruby-291B3E?style=for-the-badge&logo=ruby&logoColor=white">
-    </td>
-  </tr>
 
-  <td><b>Embedded</b></td>
+  <tr>
+    <td><b>Embedded</b></td>
     <td>
       <img src="https://img.shields.io/badge/Arduino-291B3E?style=for-the-badge&logo=arduino&logoColor=white">
       <img src="https://img.shields.io/badge/ESP32-291B3E?style=for-the-badge&logo=espressif&logoColor=white">
     </td>
-  </td>
+  </tr>
   
   <tr>
     <td><b>Web</b></td>
@@ -100,4 +92,5 @@
       <img src="https://img.shields.io/badge/Sublime Text-291B3E?style=for-the-badge&logo=sublimetext&logoColor=white">
     </td>
   </tr>
+
 </table>
