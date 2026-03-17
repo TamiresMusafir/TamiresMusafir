@@ -43,7 +43,7 @@
   Focused on responsive design, carousel features, and clean UI layout. Perfect for showcasing front-end development skills.
 
 
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TamiresMusafir&theme=jolly&hide_border=true&card_width=600)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tamiresmusafir&theme=jolly&utcOffset=8) |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TamiresMusafir&theme=jolly&hide_border=true&card_width=600)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tamiresmusafir&theme=jolly) |
 | :-: | :-: |
 
 ## My SKills
