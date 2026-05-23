@@ -57,6 +57,15 @@
       <img src="https://img.shields.io/badge/ESP32-291B3E?style=for-the-badge&logo=espressif&logoColor=white">
     </td>
   </tr>
+
+  <tr>
+    <td><b>Porgamming Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-291B3E?style=for-the-badge&logo=java&logoColor=white">
+      <img src="https://img.shields.io/badge/Ruby-291B3E?style=for-the-badge&logo=ruby&logoColor=white">
+      <img src="https://img.shields.io/badge/python-291B3E?style=for-the-badge&logo=python&logoColor=white">
+    </td>
+  </tr>
   
   <tr>
     <td><b>Web</b></td>
