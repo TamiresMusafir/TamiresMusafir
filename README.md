@@ -34,11 +34,11 @@
 
 ## Some of My Projects
 
-- **[Anuvia Rails Project](https://github.com/TamiresMusafir/anuvia-rails-project)**  
+- **[Anuvia Rails Project - Full-stack project](https://github.com/TamiresMusafir/anuvia-rails-project)**  
   A dynamic full-stack web application built with Ruby on Rails, PostgreSQL, HTML, CSS, JavaScript, and Bootstrap.  
   Features include a CRUD system, user authentication, dashboards, and responsive design. Ideal for portfolio and back-end skill demonstration.
 
-- **[Anuvia Website Template](https://github.com/TamiresMusafir/anuvia-website-template)**  
+- **[Anuvia Website Template - Front-end](https://github.com/TamiresMusafir/anuvia-website-template)**  
   A static front-end project built with HTML, CSS, JavaScript, and Bootstrap.  
   Focused on responsive design, carousel features, and clean UI layout. Perfect for showcasing front-end development skills.
 
