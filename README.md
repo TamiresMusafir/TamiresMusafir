@@ -45,6 +45,10 @@
 - **[Midnight Roulette](https://github.com/TamiresMusafir/midnight-roulette)**  
   A CLI terminal casino game built with C++, implementing clean architecture and systems development concepts. Features a dynamic Circular Linked List algorithm modeled from scratch to simulate roulette physics, strict memory management via pointers (avoiding global states), and modular multi-file structure. Deployed using Docker containers and WebSockets (ttyd) to deliver an interactive terminal experience directly via the browser.
 
+- **[Dev Guides - Technical Tutorials & Blueprints](https://github.com/TamiresMusafir/dev-guides)**  
+  An open-source educational repository featuring step-by-step technical guides and tutorials for beginners. 
+  Focused on simplifying environment setup, MVC architecture, database migrations, and framework workflows. Designed to act as a structured, friction-free blueprint for software development.
+
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TamiresMusafir&theme=jolly&hide_border=true&card_width=600)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tamiresmusafir&theme=jolly) |
 | :-: | :-: |
 
