@@ -81,6 +81,7 @@
       <img src="https://img.shields.io/badge/JavaScript-291B3E?style=for-the-badge&logo=javascript&logoColor=white">
       <img src="https://img.shields.io/badge/Bootstrap-291B3E?style=for-the-badge&logo=bootstrap&logoColor=white">
       <img src="https://img.shields.io/badge/Ruby on Rails-291B3E?style=for-the-badge&logo=rubyonrails&logoColor=white">
+      <img src="https://img.shields.io/badge/Django-291B3E?style=for-the-badge&logo=django&logoColor=white">
       <img src="https://img.shields.io/badge/React-291B3E?style=for-the-badge&logo=react&logoColor=white">
       <img src="https://img.shields.io/badge/Tailwind-291B3E?style=for-the-badge&logo=tailwindcss&logoColor=white">
     </td>
